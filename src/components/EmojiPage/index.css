@@ -1,0 +1,32 @@
+.emoji-container{
+    
+    width: 70%; 
+    
+} 
+.form-el{
+    border: 2px solid black; 
+    display: flex; 
+    align-items: center; 
+    border-radius: 20px; 
+    position: fixed;
+    bottom: 0px; 
+    width: 70%;
+    
+} 
+.input-el{
+    border: none; 
+    background-color: none; 
+    
+} 
+.btn-click{
+    padding: 10px;
+    font-size: 16px; 
+    border-radius: 20px; 
+    background-color: rgb(131, 131, 235); 
+    color: aliceblue;
+    font-family: "Roboto";
+} 
+.ul-list{
+    padding-left: 0px; 
+    list-style-type: none;
+}
